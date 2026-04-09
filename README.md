@@ -14,11 +14,4 @@ An autonomous AI receptionist that handles inbound business phone calls end-to-e
 ## Tech Stack
 Python · FastAPI · Anthropic Claude · Twilio · ElevenLabs · OpenAI Whisper · PostgreSQL · Google Calendar API · Slack
 
-## Setup
-1. Clone the repo
-2. Copy `.env.example` to `.env` and fill in your API keys
-3. Run `pip install -r requirements.txt`
-4. Run `python3 main.py`
 
-See full setup guide in the documentation.
-EOF
